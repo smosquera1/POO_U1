@@ -1,8 +1,6 @@
 
 package clases;
 
-import abstracts.ContenidoAudiovisual;
-
 public class TikTok extends ContenidoAudiovisual {
     private String usuarioTikTok;
     private int likes;

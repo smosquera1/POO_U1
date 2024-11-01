@@ -3,8 +3,6 @@ package clases;
 
 import java.util.ArrayList;
 
-import abstracts.ContenidoAudiovisual;
-
 public class SerieDeTV extends ContenidoAudiovisual {
     private int temporadas;
     private ArrayList<Temporada> listaTemporadas;

@@ -3,8 +3,6 @@ package clases;
 
 import java.util.ArrayList;
 
-import abstracts.Persona;
-
 public class Investigador extends Persona {
     private String especialidad;
     private ArrayList<Documental> documentales;

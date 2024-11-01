@@ -3,8 +3,6 @@ package clases;
 
 import java.util.ArrayList;
 
-import abstracts.Persona;
-
 public class Actor extends Persona {
     private ArrayList<Pelicula> peliculas;
 

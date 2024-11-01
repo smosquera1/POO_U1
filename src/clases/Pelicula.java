@@ -3,8 +3,6 @@ package clases;
 
 import java.util.ArrayList;
 
-import abstracts.ContenidoAudiovisual;
-
 public class Pelicula extends ContenidoAudiovisual {
     private String estudio;
     private ArrayList<Actor> actores;

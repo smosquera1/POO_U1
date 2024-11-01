@@ -1,8 +1,6 @@
 
 package clases;
 
-import abstracts.ContenidoAudiovisual;
-
 public class Reel extends ContenidoAudiovisual {
     private String cuentaInstagram;
     private int duracionSegundos;

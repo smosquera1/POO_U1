@@ -3,8 +3,6 @@ package clases;
 
 import java.util.ArrayList;
 
-import abstracts.ContenidoAudiovisual;
-
 public class Documental extends ContenidoAudiovisual {
     private String tema;
     private ArrayList<Investigador> investigadores;
