@@ -1,5 +1,5 @@
 
-package clases;
+package principal.clases;
 
 public abstract class Persona {
     private String nombre;

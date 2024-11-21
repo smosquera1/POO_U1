@@ -1,5 +1,5 @@
 
-package clases;
+package principal.clases;
 
 import java.util.ArrayList;
 

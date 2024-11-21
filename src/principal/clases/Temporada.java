@@ -1,5 +1,5 @@
 
-package clases;
+package principal.clases;
 
 public class Temporada {
     private int numero;

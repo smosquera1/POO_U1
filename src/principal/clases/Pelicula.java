@@ -1,7 +1,8 @@
 
-package clases;
+package principal.clases;
 
 import java.util.ArrayList;
+import java.util.stream.Collectors;
 
 public class Pelicula extends ContenidoAudiovisual {
     private String estudio;
@@ -38,7 +39,7 @@ public class Pelicula extends ContenidoAudiovisual {
         System.out.println("Duración en minutos: " + getDuracionEnMinutos());
         System.out.println("Género: " + getGenero());
         System.out.println("Estudio: " + estudio);
-        System.out.println("Actores: " + actores.stream().map(Actor::getNombre).toList());
+        System.out.println("Actores: " + actores.stream().map(Actor::getNombre).collect(Collectors.toList()));
         System.out.println();
     }
 }

@@ -1,5 +1,5 @@
 
-package clases;
+package principal.clases;
 
 public class TikTok extends ContenidoAudiovisual {
     private String usuarioTikTok;

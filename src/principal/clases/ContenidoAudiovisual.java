@@ -1,4 +1,4 @@
-package clases;
+package principal.clases;
 
 public abstract class ContenidoAudiovisual {
     private static int contar = 0;

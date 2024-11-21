@@ -1,5 +1,5 @@
 
-package clases;
+package principal.clases;
 
 public class Reel extends ContenidoAudiovisual {
     private String cuentaInstagram;

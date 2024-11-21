@@ -1,7 +1,8 @@
 
-package clases;
+package principal.clases;
 
 import java.util.ArrayList;
+import java.util.stream.Collectors;
 
 public class Documental extends ContenidoAudiovisual {
     private String tema;
@@ -38,7 +39,7 @@ public class Documental extends ContenidoAudiovisual {
         System.out.println("Duración en minutos: " + getDuracionEnMinutos());
         System.out.println("Género: " + getGenero());
         System.out.println("Tema: " + this.tema);
-        System.out.println("Investigadores: " + investigadores.stream().map(Investigador::getNombre).toList());
+        System.out.println("Investigadores: " + investigadores.stream().map(Investigador::getNombre).collect(Collectors.toList()));
         System.out.println();
     }
 }

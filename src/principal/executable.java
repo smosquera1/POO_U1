@@ -1,11 +1,9 @@
-package main;
+package principal;
 
-import clases.*;
+import principal.clases.*;
 
 public class executable {
 	public static void main(String[] args) {
-        System.out.println("Hello from Eclipse!");
-
         // Crear instancias de Pelicula, SerieDeTV, y Documental
         Pelicula avatar = new Pelicula("Avatar", 125, "Accion", "20th Century Studios");
         SerieDeTV got = new SerieDeTV("Game of Thrones", 60, "Fantasy", 8);
