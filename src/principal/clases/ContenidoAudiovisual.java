@@ -1,14 +1,14 @@
 package principal.clases;
-
+import java.util.concurrent.atomic.AtomicInteger;
 public abstract class ContenidoAudiovisual {
-    private static int contar = 0;
+    private static final AtomicInteger contar = new AtomicInteger(0);
     private String titulo;
     private int duracionEnMinutos;
     private String genero;
     private int id;
 
     public ContenidoAudiovisual(String titulo, int duracionEnMinutos, String genero) {
-        this.id = contar++;
+        this.id = contar.getAndIncrement(); // Genera un ID único
         this.titulo = titulo;
         this.duracionEnMinutos = duracionEnMinutos;
         this.genero = genero;
