@@ -20,5 +20,4 @@ public class CsvConverter {
             return csvToBean.parse();
         }
     }
-
 }
