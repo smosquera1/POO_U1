@@ -7,7 +7,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="opencsv-4.1" level="project" />
     <orderEntry type="library" name="commons-lang3-3.17.0" level="project" />
+    <orderEntry type="library" name="opencsv-4.1" level="project" />
   </component>
 </module>

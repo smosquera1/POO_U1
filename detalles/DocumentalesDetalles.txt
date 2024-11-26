@@ -1,5 +1,5 @@
 Detalles del documental:
-ID: 9
+ID: 14
 Título: Planet Earth
 Duración en minutos: 50
 Género: Documentary/Nature
@@ -15,7 +15,7 @@ Tema: Basketball
 Investigadores: [Michael, Phil]
 
 Detalles del documental:
-ID: 10
+ID: 12
 Título: Our Planet
 Duración en minutos: 48
 Género: Documentary/Nature
@@ -23,7 +23,7 @@ Tema: Cambio Climático
 Investigadores: [Sylvia, David]
 
 Detalles del documental:
-ID: 12
+ID: 15
 Título: Making a Murderer
 Duración en minutos: 60
 Género: Documentary/Crime
@@ -31,7 +31,7 @@ Tema: Investigación Criminal
 Investigadores: [Steven, Laura]
 
 Detalles del documental:
-ID: 13
+ID: 9
 Título: The Social Dilemma
 Duración en minutos: 94
 Género: Documentary/Technology
@@ -39,7 +39,7 @@ Tema: Impacto de las Redes Sociales
 Investigadores: [Tristan, Sofia]
 
 Detalles del documental:
-ID: 14
+ID: 10
 Título: Blackfish
 Duración en minutos: 83
 Género: Documentary/Animal Rights
@@ -47,7 +47,7 @@ Tema: Maltrato Animal
 Investigadores: [Gabriela, Carlos]
 
 Detalles del documental:
-ID: 15
+ID: 13
 Título: 13th
 Duración en minutos: 100
 Género: Documentary/Social Justice

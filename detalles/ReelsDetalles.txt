@@ -1,19 +1,19 @@
 Detalles del Reel:
-ID: 33
+ID: 34
 Título: Amazing Nature
 Duración en minutos: 1
 Género: Nature
 Cuenta de Instagram: Maria
 
 Detalles del Reel:
-ID: 34
+ID: 35
 Título: Funny Dogs
 Duración en minutos: 1
 Género: Comedy
 Cuenta de Instagram: Juan
 
 Detalles del Reel:
-ID: 35
+ID: 33
 Título: Quick Workout Tips
 Duración en minutos: 1
 Género: Fitness
@@ -48,14 +48,14 @@ Género: Beauty
 Cuenta de Instagram: Diana
 
 Detalles del Reel:
-ID: 41
+ID: 40
 Título: Life Hacks
 Duración en minutos: 1
 Género: Lifestyle
 Cuenta de Instagram: Pedro
 
 Detalles del Reel:
-ID: 40
+ID: 41
 Título: Science Wonders
 Duración en minutos: 1
 Género: Education
@@ -83,14 +83,14 @@ Género: Technology
 Cuenta de Instagram: Victor
 
 Detalles del Reel:
-ID: 46
+ID: 45
 Título: Movie Teasers
 Duración en minutos: 1
 Género: Entertainment
 Cuenta de Instagram: Emma
 
 Detalles del Reel:
-ID: 45
+ID: 46
 Título: Pet Cuteness Overload
 Duración en minutos: 0
 Género: Animals
