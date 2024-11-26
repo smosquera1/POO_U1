@@ -9,11 +9,13 @@ public class Executable {
         public static void main(String[] args) throws Exception {
                 MediaView mediaView = new MediaView();
                 MediaController controller = new MediaController(mediaView);
+                String basePath = System.getProperty("user.dir");
+                String correctedPath = basePath.replace("\\src", "");
                 // Procesar películas y actores
                 controller.procesarContenido(
-                        "./csvs/Peliculas.csv",
-                        "./csvs/Actores.csv",
-                        "./detalles/PeliculasDetalles.txt",
+                        correctedPath+"/csvs/Peliculas.csv",
+                        correctedPath+"/csvs/Actores.csv",
+                        correctedPath+"/detalles/PeliculasDetalles.txt",
                         Pelicula.class,
                         Actor.class,
                         Pelicula::getTitulo,
@@ -23,9 +25,9 @@ public class Executable {
 
                 // Procesar series y temporadas
                 controller.procesarContenido(
-                        "./csvs/Series.csv",
-                        "./csvs/Temporadas.csv",
-                        "./detalles/SeriesDetalles.txt",
+                        correctedPath+"/csvs/Series.csv",
+                        correctedPath+"/csvs/Temporadas.csv",
+                        correctedPath+"/detalles/SeriesDetalles.txt",
                         SerieDeTV.class,
                         Temporada.class,
                         SerieDeTV::getTitulo,
@@ -35,9 +37,9 @@ public class Executable {
 
                 // Procesar documentales e investigadores
                 controller.procesarContenido(
-                        "./csvs/Documentales.csv",
-                        "./csvs/Investigadores.csv",
-                        "./detalles/DocumentalesDetalles.txt",
+                        correctedPath+"/csvs/Documentales.csv",
+                        correctedPath+"/csvs/Investigadores.csv",
+                        correctedPath+"/detalles/DocumentalesDetalles.txt",
                         Documental.class,
                         Investigador.class,
                         Documental::getTitulo,
@@ -47,9 +49,9 @@ public class Executable {
 
                 // Procesar TikToks y usuarios
                 controller.procesarContenido(
-                        "./csvs/TikToks.csv",
-                        "./csvs/UsuariosTikTok.csv",
-                        "./detalles/TikToksDetalles.txt",
+                        correctedPath+"/csvs/TikToks.csv",
+                        correctedPath+"/csvs/UsuariosTikTok.csv",
+                        correctedPath+"/detalles/TikToksDetalles.txt",
                         TikTok.class,
                         Usuario.class,
                         TikTok::getTitulo,
@@ -59,9 +61,9 @@ public class Executable {
 
                 // Procesar Reels y usuarios
                 controller.procesarContenido(
-                        "./csvs/Reels.csv",
-                        "./csvs/UsuariosReels.csv",
-                        "./detalles/ReelsDetalles.txt",
+                        correctedPath+"/csvs/Reels.csv",
+                        correctedPath+"/csvs/UsuariosReels.csv",
+                        correctedPath+"/detalles/ReelsDetalles.txt",
                         Reel.class,
                         Usuario.class,
                         Reel::getTitulo,

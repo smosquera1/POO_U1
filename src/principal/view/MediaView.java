@@ -18,6 +18,7 @@ public class MediaView {
             for (T item : contenido) {
                 writer.write(item.obtenerDetalles());
             }
+            System.out.println("Archivo guardado exitosamente en "+filePath.replace("/", "\\"));
         } catch (IOException e) {
             e.printStackTrace();
         }
