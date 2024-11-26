@@ -1,13 +1,16 @@
 package principal;
 
-import principal.models.*;
-import principal.core.FunctionsHelpers;
+import principal.controller.MediaController;
+import principal.model.*;
+import principal.view.MediaView;
 
 public class Executable {
 
         public static void main(String[] args) throws Exception {
+                MediaView mediaView = new MediaView();
+                MediaController controller = new MediaController(mediaView);
                 // Procesar películas y actores
-                FunctionsHelpers.procesarYGuardarDetalles(
+                controller.procesarContenido(
                         "./csvs/Peliculas.csv",
                         "./csvs/Actores.csv",
                         "./detalles/PeliculasDetalles.txt",
@@ -19,7 +22,7 @@ public class Executable {
                 );
 
                 // Procesar series y temporadas
-                FunctionsHelpers.procesarYGuardarDetalles(
+                controller.procesarContenido(
                         "./csvs/Series.csv",
                         "./csvs/Temporadas.csv",
                         "./detalles/SeriesDetalles.txt",
@@ -31,7 +34,7 @@ public class Executable {
                 );
 
                 // Procesar documentales e investigadores
-                FunctionsHelpers.procesarYGuardarDetalles(
+                controller.procesarContenido(
                         "./csvs/Documentales.csv",
                         "./csvs/Investigadores.csv",
                         "./detalles/DocumentalesDetalles.txt",
@@ -43,7 +46,7 @@ public class Executable {
                 );
 
                 // Procesar TikToks y usuarios
-                FunctionsHelpers.procesarYGuardarDetalles(
+                controller.procesarContenido(
                         "./csvs/TikToks.csv",
                         "./csvs/UsuariosTikTok.csv",
                         "./detalles/TikToksDetalles.txt",
@@ -55,7 +58,7 @@ public class Executable {
                 );
 
                 // Procesar Reels y usuarios
-                FunctionsHelpers.procesarYGuardarDetalles(
+                controller.procesarContenido(
                         "./csvs/Reels.csv",
                         "./csvs/UsuariosReels.csv",
                         "./detalles/ReelsDetalles.txt",

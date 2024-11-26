@@ -1,5 +1,5 @@
 
-package principal.models;
+package principal.model;
 
 public class TikTok extends ContenidoAudiovisual {
     private Usuario usuario;

@@ -1,4 +1,4 @@
-package principal.models;
+package principal.model;
 import java.util.concurrent.atomic.AtomicInteger;
 public abstract class ContenidoAudiovisual {
     private static final AtomicInteger contar = new AtomicInteger(0);

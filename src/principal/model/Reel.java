@@ -1,5 +1,5 @@
 
-package principal.models;
+package principal.model;
 
 public class Reel extends ContenidoAudiovisual {
     private Usuario usuario;

@@ -1,5 +1,5 @@
 
-package principal.models;
+package principal.model;
 import java.util.ArrayList;
 import java.util.stream.Collectors;
 

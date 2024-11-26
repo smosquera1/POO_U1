@@ -13,7 +13,7 @@ Género: Comedy
 Cuenta de Instagram: Juan
 
 Detalles del Reel:
-ID: 34
+ID: 33
 Título: Quick Workout Tips
 Duración en minutos: 1
 Género: Fitness
@@ -27,7 +27,7 @@ Género: Travel
 Cuenta de Instagram: Carlos
 
 Detalles del Reel:
-ID: 33
+ID: 34
 Título: Gaming Moments
 Duración en minutos: 1
 Género: Gaming
@@ -55,14 +55,14 @@ Género: Lifestyle
 Cuenta de Instagram: Pedro
 
 Detalles del Reel:
-ID: 41
+ID: 42
 Título: Science Wonders
 Duración en minutos: 1
 Género: Education
 Cuenta de Instagram: Laura
 
 Detalles del Reel:
-ID: 42
+ID: 41
 Título: Epic Sports Highlights
 Duración en minutos: 1
 Género: Sports

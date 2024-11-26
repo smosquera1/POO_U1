@@ -1,4 +1,4 @@
-package principal.models;
+package principal.model;
 
 public class Usuario extends Persona {
     public Usuario(String nombre, int edad, String tituloRelacion) {

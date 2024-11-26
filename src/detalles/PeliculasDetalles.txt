@@ -1,5 +1,5 @@
 Detalles de la película:
-ID: 3
+ID: 2
 Título: Titanic
 Duración en minutos: 195
 Género: Drama/Romance
@@ -23,7 +23,7 @@ Estudio: Warner Bros
 Actores: [Keanu Reeves, Carrie-Anne Moss]
 
 Detalles de la película:
-ID: 2
+ID: 3
 Título: The Godfather
 Duración en minutos: 175
 Género: Crime/Drama

@@ -1,7 +1,7 @@
 package principal.core;
 
 import com.opencsv.bean.HeaderColumnNameMappingStrategy;
-import principal.models.*;
+import principal.model.*;
 
 public class MappingStrategy<T> extends HeaderColumnNameMappingStrategy<T> {
 

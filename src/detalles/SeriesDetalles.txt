@@ -1,5 +1,5 @@
 Detalles de la serie de TV:
-ID: 7
+ID: 8
 Título: Breaking Bad
 Duración en minutos: 47
 Género: Drama/Crime
@@ -15,7 +15,7 @@ Temporadas: 8
 Total episodios de Temporadas: 73
 
 Detalles de la serie de TV:
-ID: 6
+ID: 7
 Título: Stranger Things
 Duración en minutos: 50
 Género: Drama/Horror
@@ -23,7 +23,7 @@ Temporadas: 4
 Total episodios de Temporadas: 34
 
 Detalles de la serie de TV:
-ID: 8
+ID: 6
 Título: The Big Bang Theory
 Duración en minutos: 22
 Género: Comedy

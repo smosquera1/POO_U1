@@ -1,5 +1,5 @@
 
-package principal.models;
+package principal.model;
 
 public abstract class Persona {
     private String tituloRelacion;
