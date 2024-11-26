@@ -41,14 +41,14 @@ Género: Food
 Cuenta de Instagram: Luis
 
 Detalles del Reel:
-ID: 47
+ID: 39
 Título: Makeup Quick Fixes
 Duración en minutos: 0
 Género: Beauty
 Cuenta de Instagram: Diana
 
 Detalles del Reel:
-ID: 39
+ID: 41
 Título: Life Hacks
 Duración en minutos: 1
 Género: Lifestyle
@@ -62,28 +62,28 @@ Género: Education
 Cuenta de Instagram: Laura
 
 Detalles del Reel:
-ID: 41
+ID: 42
 Título: Epic Sports Highlights
 Duración en minutos: 1
 Género: Sports
 Cuenta de Instagram: Jorge
 
 Detalles del Reel:
-ID: 42
+ID: 43
 Título: Motivational Quotes
 Duración en minutos: 0
 Género: Inspiration
 Cuenta de Instagram: Carolina
 
 Detalles del Reel:
-ID: 43
+ID: 44
 Título: Tech in 60 Seconds
 Duración en minutos: 1
 Género: Technology
 Cuenta de Instagram: Victor
 
 Detalles del Reel:
-ID: 44
+ID: 46
 Título: Movie Teasers
 Duración en minutos: 1
 Género: Entertainment
@@ -97,7 +97,7 @@ Género: Animals
 Cuenta de Instagram: Diego
 
 Detalles del Reel:
-ID: 46
+ID: 47
 Título: Cooking in a Minute
 Duración en minutos: 1
 Género: Food
