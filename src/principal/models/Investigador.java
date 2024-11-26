@@ -1,5 +1,5 @@
 
-package principal.clases;
+package principal.models;
 
 import java.util.ArrayList;
 
@@ -7,8 +7,8 @@ public class Investigador extends Persona {
     private String especialidad;
     private ArrayList<Documental> documentales;
 
-    public Investigador(String nombre, int edad, String especialidad) {
-        super(nombre, edad);
+    public Investigador(String nombre, int edad, String especialidad, String tituloRelacion) {
+        super(tituloRelacion, nombre, edad);
         this.especialidad = especialidad;
         this.documentales = new ArrayList<>();
     }

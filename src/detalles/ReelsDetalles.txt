@@ -1,0 +1,105 @@
+Detalles del Reel:
+ID: 35
+Título: Amazing Nature
+Duración en minutos: 1
+Género: Nature
+Cuenta de Instagram: Maria
+
+Detalles del Reel:
+ID: 37
+Título: Funny Dogs
+Duración en minutos: 1
+Género: Comedy
+Cuenta de Instagram: Juan
+
+Detalles del Reel:
+ID: 34
+Título: Quick Workout Tips
+Duración en minutos: 1
+Género: Fitness
+Cuenta de Instagram: Sofia
+
+Detalles del Reel:
+ID: 36
+Título: Travel Vibes
+Duración en minutos: 1
+Género: Travel
+Cuenta de Instagram: Carlos
+
+Detalles del Reel:
+ID: 33
+Título: Gaming Moments
+Duración en minutos: 1
+Género: Gaming
+Cuenta de Instagram: Ana
+
+Detalles del Reel:
+ID: 38
+Título: Healthy Snacks
+Duración en minutos: 1
+Género: Food
+Cuenta de Instagram: Luis
+
+Detalles del Reel:
+ID: 39
+Título: Makeup Quick Fixes
+Duración en minutos: 0
+Género: Beauty
+Cuenta de Instagram: Diana
+
+Detalles del Reel:
+ID: 40
+Título: Life Hacks
+Duración en minutos: 1
+Género: Lifestyle
+Cuenta de Instagram: Pedro
+
+Detalles del Reel:
+ID: 41
+Título: Science Wonders
+Duración en minutos: 1
+Género: Education
+Cuenta de Instagram: Laura
+
+Detalles del Reel:
+ID: 42
+Título: Epic Sports Highlights
+Duración en minutos: 1
+Género: Sports
+Cuenta de Instagram: Jorge
+
+Detalles del Reel:
+ID: 43
+Título: Motivational Quotes
+Duración en minutos: 0
+Género: Inspiration
+Cuenta de Instagram: Carolina
+
+Detalles del Reel:
+ID: 44
+Título: Tech in 60 Seconds
+Duración en minutos: 1
+Género: Technology
+Cuenta de Instagram: Victor
+
+Detalles del Reel:
+ID: 45
+Título: Movie Teasers
+Duración en minutos: 1
+Género: Entertainment
+Cuenta de Instagram: Emma
+
+Detalles del Reel:
+ID: 46
+Título: Pet Cuteness Overload
+Duración en minutos: 0
+Género: Animals
+Cuenta de Instagram: Diego
+
+Detalles del Reel:
+ID: 47
+Título: Cooking in a Minute
+Duración en minutos: 1
+Género: Food
+Cuenta de Instagram: Isabela
+

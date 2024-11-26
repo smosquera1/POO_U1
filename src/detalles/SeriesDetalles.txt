@@ -1,0 +1,40 @@
+Detalles de la serie de TV:
+ID: 7
+Título: Breaking Bad
+Duración en minutos: 47
+Género: Drama/Crime
+Temporadas: 5
+Total episodios de Temporadas: 62
+
+Detalles de la serie de TV:
+ID: 5
+Título: Game of Thrones
+Duración en minutos: 57
+Género: Drama/Fantasy
+Temporadas: 8
+Total episodios de Temporadas: 73
+
+Detalles de la serie de TV:
+ID: 6
+Título: Stranger Things
+Duración en minutos: 50
+Género: Drama/Horror
+Temporadas: 4
+Total episodios de Temporadas: 34
+
+Detalles de la serie de TV:
+ID: 8
+Título: The Big Bang Theory
+Duración en minutos: 22
+Género: Comedy
+Temporadas: 12
+Total episodios de Temporadas: 279
+
+Detalles de la serie de TV:
+ID: 4
+Título: Friends
+Duración en minutos: 22
+Género: Comedy
+Temporadas: 10
+Total episodios de Temporadas: 236
+

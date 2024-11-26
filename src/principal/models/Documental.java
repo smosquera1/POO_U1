@@ -1,5 +1,5 @@
 
-package principal.clases;
+package principal.models;
 
 import java.util.ArrayList;
 import java.util.stream.Collectors;
@@ -41,5 +41,21 @@ public class Documental extends ContenidoAudiovisual {
         System.out.println("Tema: " + this.tema);
         System.out.println("Investigadores: " + investigadores.stream().map(Investigador::getNombre).collect(Collectors.toList()));
         System.out.println();
+    }
+
+    @Override
+    public String obtenerDetalles() {
+        StringBuilder detalles = new StringBuilder();
+        detalles.append("Detalles del documental:\n");
+        detalles.append("ID: ").append(getId()).append("\n");
+        detalles.append("Título: ").append(getTitulo()).append("\n");
+        detalles.append("Duración en minutos: ").append(getDuracionEnMinutos()).append("\n");
+        detalles.append("Género: ").append(getGenero()).append("\n");
+        detalles.append("Tema: ").append(tema).append("\n");
+        detalles.append("Investigadores: ").append(
+                investigadores.stream().map(Investigador::getNombre).collect(Collectors.toList())
+        ).append("\n");
+        detalles.append("\n");
+        return detalles.toString();
     }
 }

@@ -1,4 +1,4 @@
-package principal.clases;
+package principal.models;
 import java.util.concurrent.atomic.AtomicInteger;
 public abstract class ContenidoAudiovisual {
     private static final AtomicInteger contar = new AtomicInteger(0);
@@ -45,6 +45,7 @@ public abstract class ContenidoAudiovisual {
     public int getId() {
         return id;
     }
-    
+
     public abstract void mostrarDetalles();
+    public abstract String obtenerDetalles();
 }

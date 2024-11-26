@@ -1,0 +1,32 @@
+Detalles de la película:
+ID: 3
+Título: Titanic
+Duración en minutos: 195
+Género: Drama/Romance
+Estudio: 20th Century Fox
+Actores: [Leonardo DiCaprio, Kate Winslet]
+
+Detalles de la película:
+ID: 0
+Título: Inception
+Duración en minutos: 148
+Género: Sci-Fi/Thriller
+Estudio: Warner Bros
+Actores: [Leonardo DiCaprio, Joseph Gordon-Levitt]
+
+Detalles de la película:
+ID: 1
+Título: The Matrix
+Duración en minutos: 136
+Género: Sci-Fi/Action
+Estudio: Warner Bros
+Actores: [Keanu Reeves, Carrie-Anne Moss]
+
+Detalles de la película:
+ID: 2
+Título: The Godfather
+Duración en minutos: 175
+Género: Crime/Drama
+Estudio: Paramount Pictures
+Actores: [Marlon Brando, Al Pacino]
+

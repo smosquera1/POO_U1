@@ -1,9 +1,9 @@
 
-package principal.clases;
+package principal.models;
 import java.util.ArrayList;
 import java.util.stream.Collectors;
 
-public class Pelicula extends ContenidoAudiovisual {
+public class    Pelicula extends ContenidoAudiovisual {
     private String estudio;
     private ArrayList<Actor> actores;
 
@@ -40,5 +40,19 @@ public class Pelicula extends ContenidoAudiovisual {
         System.out.println("Estudio: " + estudio);
         System.out.println("Actores: " + actores.stream().map(Actor::getNombre).collect(Collectors.toList()));
         System.out.println();
+    }
+
+    @Override
+    public String obtenerDetalles() {
+        StringBuilder detalles = new StringBuilder();
+        detalles.append("Detalles de la película:\n");
+        detalles.append("ID: ").append(getId()).append("\n");
+        detalles.append("Título: ").append(getTitulo()).append("\n");
+        detalles.append("Duración en minutos: ").append(getDuracionEnMinutos()).append("\n");
+        detalles.append("Género: ").append(getGenero()).append("\n");
+        detalles.append("Estudio: ").append(estudio).append("\n");
+        detalles.append("Actores: ").append(actores.stream().map(Actor::getNombre).collect(Collectors.toList())).append("\n");
+        detalles.append("\n");
+        return detalles.toString();
     }
 }
