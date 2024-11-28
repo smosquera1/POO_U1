@@ -1,19 +1,19 @@
 Detalles del Reel:
-ID: 34
+ID: 33
 Título: Amazing Nature
 Duración en minutos: 1
 Género: Nature
 Cuenta de Instagram: Maria
 
 Detalles del Reel:
-ID: 35
+ID: 34
 Título: Funny Dogs
 Duración en minutos: 1
 Género: Comedy
 Cuenta de Instagram: Juan
 
 Detalles del Reel:
-ID: 33
+ID: 35
 Título: Quick Workout Tips
 Duración en minutos: 1
 Género: Fitness

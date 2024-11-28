@@ -1,5 +1,5 @@
 Detalles de la película:
-ID: 1
+ID: 0
 Título: Titanic
 Duración en minutos: 195
 Género: Drama/Romance
@@ -7,7 +7,7 @@ Estudio: 20th Century Fox
 Actores: [Leonardo DiCaprio, Kate Winslet]
 
 Detalles de la película:
-ID: 2
+ID: 1
 Título: Inception
 Duración en minutos: 148
 Género: Sci-Fi/Thriller
@@ -23,7 +23,7 @@ Estudio: Warner Bros
 Actores: [Keanu Reeves, Carrie-Anne Moss]
 
 Detalles de la película:
-ID: 0
+ID: 2
 Título: The Godfather
 Duración en minutos: 175
 Género: Crime/Drama

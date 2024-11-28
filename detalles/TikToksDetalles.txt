@@ -15,7 +15,7 @@ Usuario de TikTok: Juan
 Likes: 450000
 
 Detalles del TikTok:
-ID: 22
+ID: 20
 Título: Epic Fails Compilation
 Duración en minutos: 3
 Género: Humor
@@ -31,7 +31,7 @@ Usuario de TikTok: Ana
 Likes: 220000
 
 Detalles del TikTok:
-ID: 20
+ID: 22
 Título: Travel Destinations
 Duración en minutos: 1
 Género: Travel
@@ -63,7 +63,7 @@ Usuario de TikTok: Pedro
 Likes: 275000
 
 Detalles del TikTok:
-ID: 26
+ID: 27
 Título: Makeup Tutorial
 Duración en minutos: 2
 Género: Beauty
@@ -71,7 +71,7 @@ Usuario de TikTok: Laura
 Likes: 200000
 
 Detalles del TikTok:
-ID: 27
+ID: 26
 Título: Pet Tricks
 Duración en minutos: 1
 Género: Animals
