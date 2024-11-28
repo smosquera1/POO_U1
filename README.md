@@ -177,7 +177,7 @@ En este ejemplo, gracias al polimorfismo, cada objeto invoca su propia implement
 
 ### Diagrama de clases de models
 
-![Descripción de la imagen](diagramas\models.png)
+![Descripción de la imagen](https://github.com/smosquera1/POO_U1/blob/main/diagramas/models.png)
 
 ### SOLID
 
